@@ -1,4 +1,12 @@
 # Unisync
 Software para gestionar tareas
 
-Google doc con información general: https://docs.google.com/document/d/15CDWkojRGdAgABPtt6kh1S-AAEnByzqq-7ZVCbTvhDQ/edit?usp=sharing
+Contenido en carpetas:
+  Avances 1
+    Design Thinking Inicial
+  Avances 2
+    Design Studio
+  Corte 1
+    Definición inicial de proyecto con Design Thinking
+  Corte 2
+  Scrum
