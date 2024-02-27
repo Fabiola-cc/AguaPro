@@ -9,6 +9,6 @@ Contenido en carpetas:
     
   Corte 1: Definición inicial de proyecto con Design Thinking
     
-  Corte 2
+  Corte 2: Design Studio e historias de usuario
   
   Scrum
